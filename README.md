@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600"></p>
 
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">I am a Junior Web Developer and I am improving myself in this field.</h3>
+<h3 align="center">I am a Full Stack Web Developer and I am improving myself in this field.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
